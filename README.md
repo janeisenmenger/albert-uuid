@@ -1,2 +1,2 @@
 # albert-uuid
-A plugin for albert that creates uuid v4's and saves them to the clipboard
+A plugin for [Albert](https://github.com/albertlauncher) that creates a uuidv4 on call and saves it to the clipboard.
